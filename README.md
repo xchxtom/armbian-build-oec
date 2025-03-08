@@ -31,7 +31,7 @@ For stable branch use `--branch=v24.11`
 ```bash
 apt-get -y install git
 git clone --depth=1 --branch=main https://github.com/xchxtom/armbian-build-oec
-cd build
+cd armbian-build-oec
 ./compile.sh
 ```
 
